@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# About The Project
+This code spells out how comments can nest themselves just like how comments work in Reddit. I learned how to build this from [Code Rocket Fuel](https://coderrocketfuel.com/article/recursion-in-react-render-comments-with-nested-children).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
